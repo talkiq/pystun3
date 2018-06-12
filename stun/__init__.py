@@ -3,9 +3,9 @@ import logging
 import random
 import socket
 
-__version__ = '0.1.0'
+__version__ = '1.0.0'
 
-log = logging.getLogger("pystun")
+log = logging.getLogger("pystun3")
 
 STUN_SERVERS = (
     'stun.ekiga.net',
