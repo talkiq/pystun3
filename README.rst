@@ -4,6 +4,7 @@ A Python STUN client for getting NAT type and external IP. Supports Python
 versions 2 and 3.
 
 This project has been forked several times:
+
 - `original project by gaohawk`_
 - `taken over by jtriley`_
 - `forked and patched to support py3 by zoumi`_
