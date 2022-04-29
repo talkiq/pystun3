@@ -57,7 +57,6 @@ def main():
         print('NAT Type:', nat_type)
         print('External IP:', external_ip)
         print('External Port:', external_port)
-        input('Press any key to continue')
     except KeyboardInterrupt:
         sys.exit()
 
