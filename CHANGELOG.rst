@@ -1,5 +1,10 @@
 Changelog
 ---------
+
+2.0.0 (2024/06/28)
+******************
+- Fix Test 3 implementation issue (#3, thanks @robertsdotpm and @northteam)
+
 1.0.0 (2018/06/12)
 ******************
 - Release as ``pystun3`` with support for Python 3.
